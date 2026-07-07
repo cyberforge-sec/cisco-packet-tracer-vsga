@@ -1,9 +1,9 @@
 <p align="center">
-  <h1 align="center">🌐 Cisco Packet Traser — VSGA</h1>
+  <h1 align="center">🌐 Cisco Packet Tracer — VSGA</h1>
 </p>
 
 <p align="center">
-  <strong>Ujian praktik VSGA Cisco Packet Traser — Jaringan & Routing</strong>
+  <strong>Ujian praktik VSGA Cisco Packet Tracer — Jaringan & Routing</strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 📋 Deskripsi
 
-Repository ini berisi file `.pkt` hasil ujian praktik **VSGA (Vocational Skills for Global Advancement)** — Cisco Packet Traser.
+Repository ini berisi file `.pkt` hasil ujian praktik **VSGA (Vocational Skills for Global Advancement)** — Cisco Packet Tracer.
 
 **File:** `adiva-dwi-aprianto-jna.pkt`
 
@@ -28,7 +28,7 @@ Repository ini berisi file `.pkt` hasil ujian praktik **VSGA (Vocational Skills 
 1. **Download & install** [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (gratis dengan akun Cisco NetAcad)
 2. **Clone repo ini:**
    ```bash
-   git clone git@github.com:cyberforge-sec/Cisco-Packet-Traser.git
+   git clone git@github.com:cyberforge-sec/cisco-packet-tracer-vsga.git
    ```
 3. **Buka file** `.pkt` dari Packet Tracer: `File → Open → adiva-dwi-aprianto-jna.pkt`
 4. **Jalankan simulasi** dengan tombol **Play** (▶️) di Simulation Mode atau Real-Time Mode
@@ -38,18 +38,15 @@ Repository ini berisi file `.pkt` hasil ujian praktik **VSGA (Vocational Skills 
 ## 📁 Repository Structure
 
 ```
-Cisco-Packet-Traser/
+cisco-packet-tracer-vsga/
 ├── adiva-dwi-aprianto-jna.pkt   # File ujian Packet Tracer
 ├── .gitignore
+├── LICENSE
 └── README.md
----
-
-## 📄 License
-
-MIT — see [LICENSE](LICENSE) for details.
+```
 
 ---
- 
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE) for details.
